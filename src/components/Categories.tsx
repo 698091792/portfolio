@@ -31,7 +31,7 @@ const projects = {
   'Graphic Design': {
     description: 'Creative and compelling visual designs for brands.',
     image: 'https://source.unsplash.com/400x300/?design',
-    links: ['https:fr.pinterest.com/jeanjuniorbilogue/'],
+    links: ['fr.pinterest.com/jeanjuniorbilogue/'],
   }
 };
 
